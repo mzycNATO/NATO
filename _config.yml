@@ -101,10 +101,9 @@ theme: Butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy: 
+deploy:
   type: git
-  repo: 
-    github: https://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@github.com/mzycNato/mzycNATO.github.io,master
+  repo: git@github.com:mzycNATO/mzycNATO.github.io.git
   branch: master
 lazyload:
   enable: true
