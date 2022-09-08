@@ -17,7 +17,7 @@
     "cheerio": "^1.0.0-rc.10",
     "gulp": "^4.0.2",
     "gulp-html-minifier-terser": "^6.0.1",
-    "hexo": "^6.0.0",
+    "hexo": "^6.3.0",
     "hexo-admin": "^2.3.0",
     "hexo-butterfly-envelope": "^1.0.13",
     "hexo-butterfly-footer-beautify": "^1.0.6",
